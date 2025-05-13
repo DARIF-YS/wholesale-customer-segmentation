@@ -1,6 +1,6 @@
 # 📦 Segmentation de Clients d’un Distributeur en Gros avec K-Means
 
-![Segmentation des clients](https://upload.wikimedia.org/wikipedia/commons/0/04/Birmingham_Wholesale_Markets.jpg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Birmingham_Wholesale_Markets.jpg" alt="Segmentation des clients" height="600"/>
 
 ## 🧩 Problématique
 
@@ -57,4 +57,4 @@ Ce jeu de données provient de l’UCI Machine Learning Repository et recense le
 
 ## ✍️ Auteur
 
-Yassine Darif – [LinkedIn](www.linkedin.com/in/darif-yassine) (à personnaliser)
+Yassine Darif – [LinkedIn](www.linkedin.com/in/darif-yassine)
