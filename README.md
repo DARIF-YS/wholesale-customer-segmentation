@@ -1,6 +1,6 @@
 ## Segmentation de Clients d’un Distributeur en Gros avec K-Means
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Birmingham_Wholesale_Markets.jpg" alt="Segmentation des clients" height="300" width="900"/>
+<img src="https://simplisales.com/_next/image?url=https%3A%2F%2Fblog.simplisales.io%2Fwp-content%2Fuploads%2F2023%2F12%2Fimage-3.webp&w=3840&q=75" alt="Segmentation des clients" height="300" width="900"/>
 
 ### 1) Problématique
 
@@ -16,7 +16,7 @@ L'objectif de ce projet est d'utiliser l'algorithme de clustering K-Means afin d
 
 Ce jeu de données provient de l’UCI Machine Learning Repository et recense les clients d’un distributeur en gros. Il contient les dépenses annuelles (en unités monétaires) dans plusieurs catégories de produits.
 
-🔗 Télécharger : https://archive.ics.uci.edu/ml/datasets/Wholesale+customers
+Télécharger : https://archive.ics.uci.edu/ml/datasets/Wholesale+customers
 
 ### 3) Description des Variables
 
@@ -54,6 +54,5 @@ Ce jeu de données provient de l’UCI Machine Learning Repository et recense le
 - Regroupement pertinent des clients en fonction de leurs dépenses
 - Visualisations des clusters 
 - Recommandations stratégiques basées sur les segments
-
 ---  
 **Author:** [Yassine Darif](https://www.linkedin.com/in/darif-yassine)
