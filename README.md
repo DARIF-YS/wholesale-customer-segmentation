@@ -2,7 +2,7 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Birmingham_Wholesale_Markets.jpg" alt="Segmentation des clients" height="300" width="900"/>
 
-### Problématique
+### 1) Problématique
 
 Dans un contexte de distribution en gros, comprendre les comportements d'achat des clients est essentiel pour développer des stratégies marketing efficaces, optimiser la gestion des stocks et personnaliser les offres. Le jeu de données proposé contient les dépenses annuelles des clients dans plusieurs catégories de produits.
 
@@ -12,13 +12,13 @@ L'objectif de ce projet est d'utiliser l'algorithme de clustering K-Means afin d
 - Identifier des segments à fort potentiel
 - Soutenir les décisions marketing et commerciales
 
-### Jeu de Données
+### 2) Jeu de Données
 
 Ce jeu de données provient de l’UCI Machine Learning Repository et recense les clients d’un distributeur en gros. Il contient les dépenses annuelles (en unités monétaires) dans plusieurs catégories de produits.
 
 🔗 Télécharger : https://archive.ics.uci.edu/ml/datasets/Wholesale+customers
 
-### Description des Variables
+### 3) Description des Variables
 
 - Channel : Canal de distribution (1 = Horeca, 2 = Détaillant)
 - Region : Région géographique du client (1 = Lisbonne, 2 = Sud, 3 = Autre)
@@ -29,14 +29,14 @@ Ce jeu de données provient de l’UCI Machine Learning Repository et recense le
 - Detergents_Paper : Dépenses annuelles en détergents et papier
 - Delicassen : Dépenses annuelles en produits de luxe (épicerie fine)
 
-### Méthodologie
+### 4) Méthodologie
 
 1. Prétraitement des données (nettoyage, normalisation)
 2. Analyse exploratoire (visualisations, corrélations)
 3. Application de K-Means pour segmenter les clients
 4. Analyse, visualisation et interprétation des clusters
 
-### Applications Possibles
+### 5) Applications Possibles
 
 - Segmentation de marché
 - Analyse des habitudes de consommation
@@ -44,17 +44,18 @@ Ce jeu de données provient de l’UCI Machine Learning Repository et recense le
 - Personnalisation des offres
 - Optimisation de l’approvisionnement
 
-### Librairies Utilisées
+### 6) Librairies Utilisées
 
 - Python : pandas, numpy, scikit-learn, matplotlib, seaborn
 - Jupyter Notebook
 
-### Résultats Attendus
+### 7) Résultats Attendus
 
 - Regroupement pertinent des clients en fonction de leurs dépenses
 - Visualisations des clusters 
 - Recommandations stratégiques basées sur les segments
 
 ### Auteur
+
 
 Yassine Darif – [LinkedIn](www.linkedin.com/in/darif-yassine)
