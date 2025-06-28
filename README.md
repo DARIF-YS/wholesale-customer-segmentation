@@ -55,7 +55,5 @@ Ce jeu de données provient de l’UCI Machine Learning Repository et recense le
 - Visualisations des clusters 
 - Recommandations stratégiques basées sur les segments
 
-### Auteur
-
-
-Yassine Darif – [LinkedIn](www.linkedin.com/in/darif-yassine)
+---  
+**Author:** [Yassine Darif](https://www.linkedin.com/in/darif-yassine)
